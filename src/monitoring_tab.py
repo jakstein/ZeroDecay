@@ -1,4 +1,3 @@
-\
 import re
 from PySide6.QtWidgets import (
     QWidget, QVBoxLayout, QLineEdit, QScrollArea,
